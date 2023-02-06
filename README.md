@@ -18,3 +18,9 @@ A model of a Cagey grid (without cage constraints) built using only n-ary all-di
 for both the row and column constraints.
 
 A model built using above constraints for the grid, together with cage constraints.
+
+### Extra
+Course: CISC 352 - Artificial Inteligence
+Instructor: Christian Muise
+Institution: Queen's University, Kingston, ON, Canada
+Date: Feb 2023

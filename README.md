@@ -21,6 +21,9 @@ A model built using above constraints for the grid, together with cage constrain
 
 ### Extra
 Course: CISC 352 - Artificial Inteligence
+
 Instructor: Christian Muise
+
 Institution: Queen's University, Kingston, ON, Canada
+
 Date: Feb 2023
